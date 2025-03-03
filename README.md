@@ -1,7 +1,7 @@
 # reto-anotando-graficas
 ## Descripción 📝
 
-Realizar graficas más claras añadiendo anotaciones y cambiando el tamaño utilizando las librerias pandas, matplotlib y seaborn.
+Realizar gráficas más claras añadiendo anotaciones y cambiando el tamaño utilizando las librerias pandas, matplotlib y seaborn.
 
 ## Autor ✏️
 **Daniela Karyme Jasso Mendoza**
